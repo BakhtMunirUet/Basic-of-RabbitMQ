@@ -1,0 +1,16 @@
+C:\Users\use\source\repos\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.exe
+C:\Users\use\source\repos\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.deps.json
+C:\Users\use\source\repos\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.runtimeconfig.json
+C:\Users\use\source\repos\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.runtimeconfig.dev.json
+C:\Users\use\source\repos\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.dll
+C:\Users\use\source\repos\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.pdb
+C:\Users\use\source\repos\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\use\source\repos\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\use\source\repos\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.csproj.AssemblyReference.cache
+C:\Users\use\source\repos\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.AssemblyInfoInputs.cache
+C:\Users\use\source\repos\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.AssemblyInfo.cs
+C:\Users\use\source\repos\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.csproj.CoreCompileInputs.cache
+C:\Users\use\source\repos\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.csproj.CopyComplete
+C:\Users\use\source\repos\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.dll
+C:\Users\use\source\repos\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.pdb
+C:\Users\use\source\repos\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.genruntimeconfig.cache

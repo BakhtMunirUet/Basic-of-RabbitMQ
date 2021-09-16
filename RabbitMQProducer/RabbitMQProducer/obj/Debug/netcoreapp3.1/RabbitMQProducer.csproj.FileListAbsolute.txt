@@ -1,0 +1,17 @@
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.exe
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.deps.json
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.runtimeconfig.json
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.runtimeconfig.dev.json
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.dll
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.pdb
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.csproj.AssemblyReference.cache
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.AssemblyInfoInputs.cache
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.AssemblyInfo.cs
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.csproj.CoreCompileInputs.cache
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.csproj.CopyComplete
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.dll
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.pdb
+C:\Users\use\source\repos\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.genruntimeconfig.cache
